@@ -1,0 +1,149 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+.parent-div{
+    margin: 10px 52px 10px 50px;
+    padding: 17px 13px 17px 13px;
+display: flex;
+align-items: center;
+background-color: aqua;
+
+}
+
+.logo-nav{
+display: flex;
+align-items: center;
+
+}
+.nav-items{
+display: flex;
+align-items: center;
+margin: 0px 0px 0px 521px;
+
+padding: 17px 13px 17px 13px;
+}
+.nav-h{
+    margin: 10px 52px 10px 50px;
+    padding: 17px 13px 17px 13px;
+    color: rgb(255, 0, 0);
+    font-size: 22px;
+}
+
+.nav-a{
+    
+    margin: 10px 52px 10px 50px;
+    padding: 17px 13px 17px 13px;
+    font-size: 22px;
+}
+
+
+.nav-t{
+    margin: 10px 52px 10px 50px;
+    padding: 17px 13px 17px 13px; 
+    font-size: 22px;
+}
+
+
+.nav-m{
+    margin: 10px 52px 10px 50px;
+    padding: 17px 13px 17px 13px;    
+    font-size: 22px;
+}
+
+.nav-about{
+    margin: 10px 52px 10px 50px;
+    padding: 17px 13px 17px 13px;    
+    font-size: 22px;
+}
+.nav-c{
+    margin: 10px 52px 10px 50px;
+    padding: 17px 13px 17px 13px;
+    font-size: 22px;
+}
+
+.nav-cc{
+    margin: 10px 52px 10px 50px;
+    padding: 17px 13px 17px 13px;
+    font-size: 22px;
+}
+.nav-r{
+    margin: 10px 52px 10px 50px;
+    padding: 17px 13px 17px 13px;
+    font-size: 22px;
+}
+
+.hever:hover{
+    color: red;
+}
+
+
+.sezwe{
+    font-size: 128.512px;
+    color: #415161;
+    padding: 90px 55px;
+    margin: 52px 203px
+}
+ 
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: blanchedalmond;
+}
+.para{
+    width: 59%;
+    height: 134px;
+
+}
+
+.para-2{
+    width: 1138px;
+    height: 61px; 
+
+}
+
+.ni{
+    font-size: 30px;
+    color: #415161;
+    margin: 229px 13px 20px 262px;
+    padding: 14px 0px 0px 0px;  
+
+}
+
+.left{
+    height: 50px;
+    width: 50px;
+}
+
+
+.right{
+    height: 50px;
+    width: 50px;
+    margin: 229px ;
+    padding: 14px0px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
